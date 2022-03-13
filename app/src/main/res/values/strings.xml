@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_account">Account</string>
+    <string name="search_here">Search Here!</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="name_your_full_name">Name: Your Full Name</string>
+    <string name="address_your_address">Address: Your Address</string>
+    <string name="mr_ms_doctor">Mr/Ms Doctor</string>
+</resources>

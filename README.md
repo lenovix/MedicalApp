@@ -1,8 +1,6 @@
 # MedicalApp
 [Group] Project Assignment 1, Ichsanul/Afif
 <br>
-<b>Topic: Medical App</b>
+<b>Topic:</b> Medical App
 <br>
-<b>Group Member:</b>
-<o>Ichsanul Kamil Sudarmi</o>
-<o>Muhammad Afif</o>
+<b>Group Member:</b> Ichsanul Kamil Sudarmi, Muhammad Afif

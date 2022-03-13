@@ -4,5 +4,5 @@
 <b>Topic: Medical App</b>
 <br>
 <b>Group Member:</b>
-<ol>Ichsanul Kamil Sudarmi</ol>
--	Muhammad Afif
+<o>Ichsanul Kamil Sudarmi</o>
+<o>Muhammad Afif</o>
